@@ -1,0 +1,14 @@
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\bin\Debug\net8.0\DisaHeim.exe
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\bin\Debug\net8.0\DisaHeim.deps.json
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\bin\Debug\net8.0\DisaHeim.runtimeconfig.json
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\bin\Debug\net8.0\DisaHeim.dll
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\bin\Debug\net8.0\DisaHeim.pdb
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\obj\Debug\net8.0\DisaHeim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\obj\Debug\net8.0\DisaHeim.AssemblyInfoInputs.cache
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\obj\Debug\net8.0\DisaHeim.AssemblyInfo.cs
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\obj\Debug\net8.0\DisaHeim.csproj.CoreCompileInputs.cache
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\obj\Debug\net8.0\DisaHeim.dll
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\obj\Debug\net8.0\refint\DisaHeim.dll
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\obj\Debug\net8.0\DisaHeim.pdb
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\obj\Debug\net8.0\DisaHeim.genruntimeconfig.cache
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\obj\Debug\net8.0\ref\DisaHeim.dll
