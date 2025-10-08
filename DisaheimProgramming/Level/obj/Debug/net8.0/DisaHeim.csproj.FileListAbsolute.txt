@@ -12,3 +12,4 @@ C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\obj\Debu
 C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\obj\Debug\net8.0\DisaHeim.pdb
 C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\obj\Debug\net8.0\DisaHeim.genruntimeconfig.cache
 C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\obj\Debug\net8.0\ref\DisaHeim.dll
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\Level\obj\Debug\net8.0\DisaHeim.sourcelink.json
