@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DisaHeim;
 
 namespace DisaHeim
 {
@@ -31,6 +32,20 @@ namespace DisaHeim
             }
 
             return value;
+        }
+
+        public double GetValueOfCourse(Course course)
+        {
+            int WholeHour = course.DurationInMinutes/60;
+            int RemainingMinutes = course.DurationInMinutes % 60;
+
+            if (RemainingMinutes > 0)
+            {
+                WholeHour++;
+            }
+            
+
+            return WholeHour * 875.00;
         }
     }
 }

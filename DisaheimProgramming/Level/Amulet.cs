@@ -6,9 +6,13 @@ using System.Threading.Tasks;
 
 namespace DisaHeim
 {
-    public class Amulet
+    public class Amulet: Merchandise
     {
-        public string ItemId;
+        //private string _ItemId;
+        //public override string ItemId 
+        //{ get => _ItemId; set => _ItemId = value; }
+        
+        
         public string Design;
         public Level? Quality;
 

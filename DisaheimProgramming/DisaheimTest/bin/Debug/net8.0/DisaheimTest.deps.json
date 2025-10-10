@@ -11,6 +11,7 @@
           "DisaHeim": "1.0.0",
           "MSTest": "3.6.4",
           "Microsoft.NET.Test.Sdk": "17.12.0",
+          "UtilityLib": "1.0.0",
           "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions": "14.0.0.0"
         },
         "runtime": {
@@ -591,6 +592,17 @@
           }
         }
       },
+      "UtilityLib/1.0.0": {
+        "dependencies": {
+          "DisaHeim": "1.0.0"
+        },
+        "runtime": {
+          "UtilityLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions/14.0.0.0": {
         "runtime": {
           "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
@@ -727,6 +739,11 @@
       "hashPath": "system.reflection.metadata.1.6.0.nupkg.sha512"
     },
     "DisaHeim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UtilityLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
