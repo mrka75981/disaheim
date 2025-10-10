@@ -173,3 +173,5 @@ C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\DisaheimTest\o
 C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\DisaheimTest\obj\Debug\net8.0\DisaheimTest.genruntimeconfig.cache
 C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\DisaheimTest\obj\Debug\net8.0\ref\DisaheimTest.dll
 C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\DisaheimTest\obj\Debug\net8.0\DisaheimTest.sourcelink.json
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\DisaheimTest\bin\Debug\net8.0\UtilityLib.dll
+C:\Users\magnu\Documents\gitDisaheim\disaheim\DisaheimProgramming\DisaheimTest\bin\Debug\net8.0\UtilityLib.pdb

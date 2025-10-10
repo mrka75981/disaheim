@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace DisaHeim
 {
-    public class Book
+    public class Book : Merchandise
     {
-        public string ItemId;
+        //private string _ItemId;
+        
+        //public override string ItemId { get => _ItemId; set => _ItemId = value; }
+        
         public string Title;
+        
         public double Price { get; set; }
 
         public Book(string itemid, string title, double price)
