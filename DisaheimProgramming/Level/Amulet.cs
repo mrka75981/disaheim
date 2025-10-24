@@ -14,7 +14,10 @@ namespace DisaHeim
         
         
         public string Design;
-        public Level? Quality;
+        public Level? Quality { get; set; }
+        static double LowQualityValue { get; set; } = 12.5;
+        static double MediumQualityValue { get; set; } = 20.0;
+        static double HighQualityValue { get; set; } = 27.5;
 
         public Amulet(string itemid, Level? quality, string design)
         {
@@ -33,7 +36,26 @@ namespace DisaHeim
         {}
 
     
+        public override double GetValue()
+        {
+            double value = 0;
+            switch (Quality)
+            {
+                case Level.Low:
+                    value = LowQualityValue;
+                    return value;
+                case Level.Medium:
+                    value = MediumQualityValue;
+                    return value;
+                case Level.High:
+                    value = HighQualityValue;
+                    return value;
 
+
+            }
+
+            return value;
+        }
 
         public override string ToString()
         {

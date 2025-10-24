@@ -8,10 +8,13 @@ namespace DisaHeim
 {
     public class Controller
     {
+        IValueableRepository ValueableRepo;
         public List<Book> Books { get; private set; } 
         public List<Amulet> Amulets { get; private set; } 
 
-        public List<Course> Courses { get; private set; }
+        public List<Course> Courses { get; private set; } 
+
+        public List<IValuable> Valuables { get; private set; }
 
         public Controller()
         {
@@ -35,6 +38,11 @@ namespace DisaHeim
         public void AddToList(Course course)
         {
             Courses.Add(course);
+        }
+
+        public void AddToList(IValuable valuable)
+        {
+            Valuables.Add(valuable);
         }
 
     }

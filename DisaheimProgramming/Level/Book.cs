@@ -29,9 +29,12 @@ namespace DisaHeim
         {}
         public Book(string itemid): 
             this(itemid, null, 0)
-        {} 
+        {}
 
-        
+        public override double GetValue()
+        {
+            return Price;  
+        }
         
 
         public override string ToString()

@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace DisaHeim
 {
-    public class Course
+    public class Course : IValuable
     {
         public string Name;
-        public int DurationInMinutes;
+        public int DurationInMinutes { get; set; }
+        public static double CourseHourValue = 875.0;
 
 
         public Course(): this("", 0) {}
@@ -22,9 +23,22 @@ namespace DisaHeim
         public Course(int dur) : this("", dur) {}
         public Course(string name): this(name, 0) {}
 
+        public double GetValue()
+        {
+            int WholeHour = DurationInMinutes / 60;
+            int RemainingMinutes = DurationInMinutes % 60;
+
+            if (RemainingMinutes > 0)
+            {
+                WholeHour++;
+            }
+
+
+            return WholeHour * CourseHourValue;
+        }
         public override string ToString()
         {
-            return $"Name: {Name}, Duration in Minutes: {DurationInMinutes}";
+            return $"Name: {Name}, Duration in Minutes: {DurationInMinutes}, Value: {GetValue()}";
         }
     }
 }
