@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80F52BA2-2D60-4C9E-A942-ACD8CF2BF852}|DisaheimTest\\DisaheimTest.csproj|c:\\users\\magnu\\documents\\gitdisaheim\\disaheim\\disaheimprogramming\\disaheimtest\\unittest6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F52BA2-2D60-4C9E-A942-ACD8CF2BF852}|DisaheimTest\\DisaheimTest.csproj|solutionrelative:disaheimtest\\unittest6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B37FD3B1-841D-450E-8C2A-25C51F040C65}|Level\\DisaHeim.csproj|c:\\users\\magnu\\documents\\gitdisaheim\\disaheim\\disaheimprogramming\\level\\ivalueablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B37FD3B1-841D-450E-8C2A-25C51F040C65}|Level\\DisaHeim.csproj|solutionrelative:level\\ivalueablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80F52BA2-2D60-4C9E-A942-ACD8CF2BF852}|DisaheimTest\\DisaheimTest.csproj|c:\\users\\magnu\\documents\\gitdisaheim\\disaheim\\disaheimprogramming\\disaheimtest\\unittest5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F52BA2-2D60-4C9E-A942-ACD8CF2BF852}|DisaheimTest\\DisaheimTest.csproj|solutionrelative:disaheimtest\\unittest5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80F52BA2-2D60-4C9E-A942-ACD8CF2BF852}|DisaheimTest\\DisaheimTest.csproj|c:\\users\\magnu\\documents\\gitdisaheim\\disaheim\\disaheimprogramming\\disaheimtest\\unittest6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F52BA2-2D60-4C9E-A942-ACD8CF2BF852}|DisaheimTest\\DisaheimTest.csproj|solutionrelative:disaheimtest\\unittest6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B37FD3B1-841D-450E-8C2A-25C51F040C65}|Level\\DisaHeim.csproj|c:\\users\\magnu\\documents\\gitdisaheim\\disaheim\\disaheimprogramming\\level\\merchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +19,8 @@
       "RelativeMoniker": "D:0:0:{B37FD3B1-841D-450E-8C2A-25C51F040C65}|Level\\DisaHeim.csproj|solutionrelative:level\\ipersistable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B37FD3B1-841D-450E-8C2A-25C51F040C65}|Level\\DisaHeim.csproj|c:\\users\\magnu\\documents\\gitdisaheim\\disaheim\\disaheimprogramming\\level\\merchandiserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B37FD3B1-841D-450E-8C2A-25C51F040C65}|Level\\DisaHeim.csproj|solutionrelative:level\\merchandiserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B37FD3B1-841D-450E-8C2A-25C51F040C65}|Level\\DisaHeim.csproj|c:\\users\\magnu\\documents\\gitdisaheim\\disaheim\\disaheimprogramming\\level\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B37FD3B1-841D-450E-8C2A-25C51F040C65}|Level\\DisaHeim.csproj|solutionrelative:level\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B37FD3B1-841D-450E-8C2A-25C51F040C65}|Level\\DisaHeim.csproj|c:\\users\\magnu\\documents\\gitdisaheim\\disaheim\\disaheimprogramming\\level\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B37FD3B1-841D-450E-8C2A-25C51F040C65}|Level\\DisaHeim.csproj|solutionrelative:level\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B37FD3B1-841D-450E-8C2A-25C51F040C65}|Level\\DisaHeim.csproj|c:\\users\\magnu\\documents\\gitdisaheim\\disaheim\\disaheimprogramming\\level\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B37FD3B1-841D-450E-8C2A-25C51F040C65}|Level\\DisaHeim.csproj|solutionrelative:level\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B37FD3B1-841D-450E-8C2A-25C51F040C65}|Level\\DisaHeim.csproj|c:\\users\\magnu\\documents\\gitdisaheim\\disaheim\\disaheimprogramming\\level\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,20 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest6.cs",
               "DocumentMoniker": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\DisaheimTest\\UnitTest6.cs",
               "RelativeDocumentMoniker": "DisaheimTest\\UnitTest6.cs",
               "ToolTip": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\DisaheimTest\\UnitTest6.cs",
               "RelativeToolTip": "DisaheimTest\\UnitTest6.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAD4v1kAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T09:33:34.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Merchandise.cs",
               "DocumentMoniker": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\Level\\Merchandise.cs",
               "RelativeDocumentMoniker": "Level\\Merchandise.cs",
@@ -92,20 +76,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "IValueableRepository.cs",
               "DocumentMoniker": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\Level\\IValueableRepository.cs",
               "RelativeDocumentMoniker": "Level\\IValueableRepository.cs",
               "ToolTip": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\Level\\IValueableRepository.cs",
               "RelativeToolTip": "Level\\IValueableRepository.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFwAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAEEAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T08:36:59.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IPersistable.cs",
               "DocumentMoniker": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\Level\\IPersistable.cs",
               "RelativeDocumentMoniker": "Level\\IPersistable.cs",
@@ -113,25 +97,11 @@
               "RelativeToolTip": "Level\\IPersistable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T08:33:55.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T08:33:55.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UnitTest5.cs",
-              "DocumentMoniker": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\DisaheimTest\\UnitTest5.cs",
-              "RelativeDocumentMoniker": "DisaheimTest\\UnitTest5.cs",
-              "ToolTip": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\DisaheimTest\\UnitTest5.cs",
-              "RelativeToolTip": "DisaheimTest\\UnitTest5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T08:04:43.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Controller.cs",
               "DocumentMoniker": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\Level\\Controller.cs",
               "RelativeDocumentMoniker": "Level\\Controller.cs",
@@ -139,51 +109,11 @@
               "RelativeToolTip": "Level\\Controller.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T07:39:21.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T07:39:21.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\Level\\Book.cs",
-              "RelativeDocumentMoniker": "Level\\Book.cs",
-              "ToolTip": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\Level\\Book.cs",
-              "RelativeToolTip": "Level\\Book.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T07:30:31.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Amulet.cs",
-              "DocumentMoniker": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\Level\\Amulet.cs",
-              "RelativeDocumentMoniker": "Level\\Amulet.cs",
-              "ToolTip": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\Level\\Amulet.cs",
-              "RelativeToolTip": "Level\\Amulet.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T07:11:44.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MerchandiseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\Level\\MerchandiseRepository.cs",
-              "RelativeDocumentMoniker": "Level\\MerchandiseRepository.cs",
-              "ToolTip": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\Level\\MerchandiseRepository.cs",
-              "RelativeToolTip": "Level\\MerchandiseRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T06:51:15.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\magnu\\Documents\\gitDisaheim\\disaheim\\DisaheimProgramming\\Level\\Course.cs",
               "RelativeDocumentMoniker": "Level\\Course.cs",
@@ -191,8 +121,7 @@
               "RelativeToolTip": "Level\\Course.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T06:45:34.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T06:45:34.523Z"
             }
           ]
         }

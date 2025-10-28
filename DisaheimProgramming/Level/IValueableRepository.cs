@@ -14,7 +14,7 @@ namespace DisaHeim
         public void AddValueable(IValuable valuable)
         {
             valuables.Add(valuable);
-        } 
+        }
 
         public IValuable GetValuable(string itemid)
         {
@@ -33,7 +33,7 @@ namespace DisaHeim
             }
 
             return null;
-        } 
+        }
 
         public double GetTotalValue()
         {
@@ -43,34 +43,73 @@ namespace DisaHeim
                 totalvalue += valuable.GetValue();
             }
             return totalvalue;
-        } 
+        }
 
         public int Count()
         {
             return valuables.Count();
         }
 
-        public void Save()
+        public void Save(string fileName = "ValuableRepository.txt")
         {
             try
             {
-                StreamWriter sw = new StreamWriter("C:\\ValuableRepository.txt");
-                sw.WriteLine("Book;Id3;Spirits in the Night;123.55");
-                sw.Close();
-            } 
+                using StreamWriter sw = new StreamWriter(fileName, false);
+                foreach (IValuable valuable in valuables)
+                {
+                    switch (valuable)
+                    {
+                        case Book book:
+                            sw.WriteLine($"Book;{book.ItemId};{book.Title};{book.Price}");
+                            break;
+                        case Amulet amulet:
+                            sw.WriteLine($"Amulet;{amulet.ItemId};{amulet.Quality};{amulet.Design}");
+                            break;
+                        case Course course:
+                            sw.WriteLine($"Course;{course.Name};{course.DurationInMinutes}");
+                            break;
+                    }
+                }
+            }
             catch (Exception e)
             {
                 Console.WriteLine("Exception: " + e.Message);
             }
         }
 
-        public void Save(string fileName)
+        public void Save()
         {
+            Save("ValuableRepository.txt");
+        }
+
+        public void Load(string fileName = "ValuableRepository.txt")
+        {
+            valuables.Clear();
             try
             {
-                StreamWriter sw = new StreamWriter($"C:\\{fileName}" + ".txt");
-                sw.WriteLine("Book;Id4;Spirits in the Morning;124.55");
-                sw.Close();
+                using StreamReader sr = new StreamReader(fileName);
+                string line;
+                while ((line = sr.ReadLine()) != null)
+                {
+                    string[] parts = line.Split(';');
+                    if (parts.Length == 0) continue;
+
+                    switch (parts[0])
+                    {
+                        case "Book":
+                            // Book;ItemId;Title;Price
+                            valuables.Add(new Book(parts[1], parts[2], double.Parse(parts[3])));
+                            break;
+                        case "Amulet":
+                            // Amulet;ItemId;Level;Design
+                            valuables.Add(new Amulet(parts[1], Enum.Parse<Level>(parts[2]), parts[3]));
+                            break;
+                        case "Course":
+                            // Course;Name;DurationInMinutes
+                            valuables.Add(new Course(parts[1], int.Parse(parts[2])));
+                            break;
+                    }
+                }
             }
             catch (Exception e)
             {
@@ -80,36 +119,7 @@ namespace DisaHeim
 
         public void Load()
         {
-            string line;
-            try
-            {
-                StreamReader sr = new StreamReader("C:\\ValuableRepository.txt");
-                line = sr.ReadLine();
-                while (line != null)
-                {
-                    string cut = line.Trim(';');
-
-                    IValuable iv = GetValuable(cut);
-                    valuables.Add(iv);
-
-                    line = sr.ReadLine();
-                }
-
-                
-                sr.Close();
-            } 
-            catch (Exception e)
-            {
-                Console.WriteLine("Exception: " + e.Message);
-            }
-            
-
-            
-        }
-
-        public void Load(string fileName)
-        {
-            throw new NotImplementedException();
+            Load("ValuableRepository.txt");
         }
     }
 }
